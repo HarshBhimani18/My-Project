@@ -17,9 +17,6 @@ export default function Navbar() {
                             <NavLink className="nav-link text-light  mx-3" to="/Numberlist">Number list</NavLink>
                         </li>
                         <li className="nav-item">
-                            <NavLink className="nav-link text-light mx-3" to="/Edit">Edit</NavLink>
-                        </li>
-                        <li className="nav-item">
                             <NavLink className="nav-link text-light mx-3" to="/About">About</NavLink>
                         </li>
                         <li className="nav-item">
